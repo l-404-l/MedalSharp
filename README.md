@@ -1,6 +1,8 @@
 # MedalSharp
  Makes it easy to access the Medal Games & Servers API. Made for a StreamDeck Plugin that will release soon.
-
+ 
+# Support me!
+Use code 404 when signing up for medal! https://medal.tv/code/404
 
 ```C#
 
