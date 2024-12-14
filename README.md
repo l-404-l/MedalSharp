@@ -13,7 +13,7 @@ namespace Example
         public async Task RunTest()
         {
             MedalClient client = new MedalClient();
-            client.SetPublicKey("pub_yourkey"); // Required Todo anything
+            client.SetPublicKey("pub_yourkey"); // Required Todo anything (https://thirdpartyregister.pages.dev/)
 
             GameEventPost evnt = new GameEventPost()
             {
